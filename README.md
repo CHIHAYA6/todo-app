@@ -21,18 +21,15 @@ JavaScriptを用いて作成したタスク管理アプリです。
 * タスク追加
 * タスク削除
 * 完了状態の切り替え
-* LocalStorageによるデータ保存
 
 ## 工夫した点
 
-* ページを再読み込みしてもタスクが消えないようにLocalStorageを利用しました。
 * シンプルで使いやすいデザインを意識しました。
 
 ## 学んだこと
 
 * DOM操作
 * イベント処理
-* LocalStorageの利用方法
 * 配列データの管理
 
 ## 今後追加したい機能
@@ -44,8 +41,8 @@ JavaScriptを用いて作成したタスク管理アプリです。
 
 ## 制作期間
 
-〇日
+1日
 
 ## 作者
 
-GitHub: https://github.com/あなたのID
+GitHub: https://github.com/CHIHAYA6
