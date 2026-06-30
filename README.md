@@ -8,7 +8,7 @@ JavaScriptを用いて作成したタスク管理アプリです。
 
 ## 公開URL
 
-（GitHub PagesのURLを記載）
+https://chihaya6.github.io/todo-app/
 
 ## 使用技術
 
