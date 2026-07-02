@@ -10,6 +10,10 @@ JavaScriptを用いて作成したタスク管理アプリです。
 
 https://chihaya6.github.io/todo-app/
 
+## 画面イメージ
+
+![ToDoアプリ](images/todo-app.png)
+
 ## 使用技術
 
 * HTML
